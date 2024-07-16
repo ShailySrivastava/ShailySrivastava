@@ -7,4 +7,4 @@
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Shaily's github stats](https://github-readme-stats.vercel.app/api?username=ShailySrivastava)](https://github.com/ShailySrivastava/github-readme-stats)
+[![Shaily's github stats](https://github-readme-stats.vercel.app/api?username=ShailySrivastava&show_icons=true&theme=radical)](https://github.com/ShailySrivastava/github-readme-stats)
