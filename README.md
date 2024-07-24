@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Business Analyst sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Business Analytics at the Greater Noida Institute Of Technology, Noida<br/>
-💭 Ask me about **Python, R, Tableau, Netlify... or anything [here](https://github.com/ShailySrivastava/ShailySrivastava/issues)**!<br/>
+💭 Ask me about Python, R, Tableau, Netlify... or anything [here](https://github.com/ShailySrivastava/ShailySrivastava/issues)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Shaily's github stats](https://github-readme-stats.vercel.app/api?username=ShailySrivastava&show_icons=true&theme=radical)](https://github.com/ShailySrivastava/github-readme-stats)
